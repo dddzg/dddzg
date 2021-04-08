@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am Zhigang Dai.
 <!--
 **dddzg/dddzg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Justlovesmile's github stats](https://github-readme-stats.vercel.app/api?username=dddzg&show_icons=true&theme=dracula)
