@@ -1,5 +1,7 @@
 ### Hi there 👋
-I am Zhigang Dai.
+I am Zhigang Dai. I am interested in Object Detection, Unsupervised Representation Learning. 
+
+Check out my recent projects: [up-detr](https://github.com/dddzg/up-detr), [unimoco](https://github.com/dddzg/unimoco) and [wechat qrcode in OpenCV](https://github.com/opencv/opencv_contrib/tree/master/modules/wechat_qrcode).
 <!--
 **dddzg/dddzg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
